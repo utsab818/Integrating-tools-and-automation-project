@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: hotstar-clone
-        image: surajpjoshi/disnyhotstar
+        image: utsab12312/hotstar
         ports:
           - containerPort: 3000
 ---
